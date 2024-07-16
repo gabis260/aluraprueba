@@ -1,0 +1,18 @@
+.container{
+    padding: 0 0 1em 0 ;
+    margin-top: .1em;
+    width: 282px;
+    background-color: black;
+    margin-left: 90px;
+    border-radius: 25px;
+}
+.capa{
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    width: 98.5%;
+}
+.imagen{
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-right: 10px;
+}

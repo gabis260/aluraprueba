@@ -1,0 +1,32 @@
+.cabecera {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1.1em 2em;
+    background-color: #262626;
+    border-bottom: 3px solid #2271D1;
+}
+
+.logoContainer img {
+    height: 40px;
+}
+
+.Buttons {
+    display: flex;
+    gap: 10px;
+}
+
+.button {
+    padding: 10px 20px;
+    color: white;
+    background-color: black;
+    border-radius: 10px;
+    text-decoration: none;
+    text-align: center;
+    border: 1px solid white;
+}
+
+.button:hover {
+    background-color: #0056b3;
+}
+

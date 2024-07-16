@@ -1,0 +1,10 @@
+.logoContainer img {
+    height: 40px;
+    margin-left: 45%;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+.container{
+    background-color: #000000;
+    border-top: 3px solid #2271D1;;
+}
